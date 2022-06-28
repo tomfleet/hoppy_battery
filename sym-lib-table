@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "MCP73213T_LIB")(type "KiCad")(uri "${KIPRJMOD}/MCP73213T_LIB.kicad_sym")(options "")(descr ""))
+  (lib (name "ti_pwr_module")(type "KiCad")(uri "C:/Users/Tom Fleet/repo/hoppy_tmp/MCP73213T_2S/ti_pwr_module.kicad_sym")(options "")(descr ""))
 )
